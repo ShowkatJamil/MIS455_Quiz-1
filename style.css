@@ -57,7 +57,8 @@ a{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 100px 200px 10px 200px;
+    margin: 80px 200px 10px 200px;
+    border: 30px solid black;
     
 }
 .container .lower-div-content{
